@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="hhttps://lanyard.cnrad.dev/api/628295350884761610">
+   <img src="(https://lanyard.cnrad.dev/api/628295350884761610)">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iinoobdev&label=Profile%20views&color=0e75b6&style=flat" alt="iinoobdev" /> </p>
